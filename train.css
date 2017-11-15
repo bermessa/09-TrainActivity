@@ -1,0 +1,14 @@
+body {
+    background-color: #dbe6e9;
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: #0e3e53;
+    color: white;
+}
+
+.panel-default>.panel-heading {
+    background-color: #48728c;
+    color: white;
+}
